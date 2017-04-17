@@ -1,4 +1,4 @@
-# README #
+# README # [![Bitbucket issues](https://img.shields.io/bitbucket/issues/atlassian/python-bitbucket.svg)]()
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
