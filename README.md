@@ -1,11 +1,11 @@
 # README # [![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README describe the workflow in the tridimensionalization of a patagonian cemetery. Involves photogrammetry, historical sound & video restoration from Anne Chapman-Ana Montes documentary, circa 1977.
 
 ### What is this repository for? ###
 
 * Quick summary
-* Version
+* Version 1.01
 
 ### How do I get set up? ###
 
