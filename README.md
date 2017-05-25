@@ -9,12 +9,12 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of set up: Blender, Blam plugin, QGis, 
 * Configuration
 * Dependencies
 * Database configuration
 * How to run tests
-* Deployment instructions
+* Deployment instructions 
 
 ### Contribution guidelines ###
 
