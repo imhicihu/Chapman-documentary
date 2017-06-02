@@ -11,7 +11,8 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 
 * Summary of set up: Blender, Blam plugin, QGis, Gimp, Video Artifact, Film9
 * Configuration
-* Dependencies
+- Dependencies
+    * the workflow force lot of inheritances
 * Database configuration
 * How to run tests
 * Deployment instructions 
