@@ -9,7 +9,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 
 ### How do I get set up? ###
 
-* Summary of set up: Blender, Blam plugin, QGis, 
+* Summary of set up: Blender, Blam plugin, QGis, Gimp, Video Artifact, Film9
 * Configuration
 * Dependencies
 * Database configuration
