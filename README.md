@@ -9,7 +9,9 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 
 ### How do I get set up? ###
 
-* Summary of set up: Blender, Blam plugin, QGis, Gimp, Video Artifact, Film9
+- Summary of set up: 
+    * hardware: Apple Macbook 15" retina, Wacom Bamboo, 3D Conexxion SpacePilot Pro, iMac 21", Lacie 3Tb
+    * software: Blender, Blam plugin, QGis, Gimp, Video Artifact, Film9
 * Configuration
 - Dependencies
     * the workflow force lot of inheritances
