@@ -15,7 +15,11 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse, 
          * hard disks: Lacie 3Tb, Toshiba 1Tb
          * disk drive reader: Samsung DVD Writer
-    * software: Blender, Blam plugin, QGis, Gimp, Video Artifact, Film9
+    * software: 
+         * 3D: Blender, Blam (Blender plugin)
+         * GIS: QGis
+         * Graphics edition: Gimp, 
+         * Video restoration: Video Artifact, Film9
 * Configuration
 - Dependencies
     * the workflow force lot of inheritances
