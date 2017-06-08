@@ -10,7 +10,11 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 ### How do I get set up? ###
 
 - Summary of set up: 
-    * hardware: Apple Macbook 15" retina, Wacom Bamboo, 3D Conexxion SpacePilot Pro, iMac 21", Lacie 3Tb
+    - hardware: 
+         * Computers: Apple Macbook 15" retina, iMac 21"
+         * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse, 
+         * hard disks: Lacie 3Tb, Toshiba 1Tb
+         * disk drive reader: Samsung DVD Writer
     * software: Blender, Blam plugin, QGis, Gimp, Video Artifact, Film9
 * Configuration
 - Dependencies
