@@ -12,17 +12,18 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 - Summary of set up: 
     - hardware: 
          * Computers: Apple Macbook 15" retina, iMac 21"
-         * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse, 
+         * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse 
          * hard disks: Lacie 3Tb, Toshiba 1Tb
          * disk drive reader: Samsung DVD Writer
+         * headphones: AKG Q701
     * software: 
          * 3D: Blender, Blam (Blender plugin)
          * GIS: QGis
-         * Graphics edition: Gimp, 
+         * Graphics edition: Gimp
          * Video restoration: Video Artifact, Film9
 * Configuration
 - Dependencies
-    * the workflow force lot of inheritances
+    * the workflow force lot of inheritances. Most of the branches ends in few questions.
 * Database configuration
 * How to run tests
 * Deployment instructions 
