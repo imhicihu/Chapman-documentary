@@ -17,7 +17,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * disk drive reader: Samsung DVD Writer
          * headphones: AKG Q701
     * software: 
-         * 3D: Blender, Blam (Blender plugin)
+         * 3D: Blender, Blam (Blender plugin), [Onshape](http://onshape.com/)
          * GIS: QGis
          * Graphics edition: Gimp
          * Video restoration: Video Artifact, Film9
