@@ -21,6 +21,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * GIS: QGis
          * Graphics edition: Gimp
          * Video restoration: Video Artifact, Film9
+         * Sound restoration: Audacity
 * Configuration
 - Dependencies
     * the workflow force lot of inheritances. Most of the branches ends in few questions.
