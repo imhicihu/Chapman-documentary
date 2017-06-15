@@ -18,7 +18,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * headphones: AKG Q701
     * software: 
          * 3D: Blender, Blam (Blender plugin), [Onshape](http://onshape.com/)
-         * GIS: QGis
+         * GIS: QGis, Gdal, Garmin MapSource, Garmin Basecamp
          * Graphics edition: Gimp
          * Video restoration: Video Artifact, Film9
          * Sound restoration: Audacity
