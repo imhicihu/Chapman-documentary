@@ -12,9 +12,10 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 - Summary of set up: 
     - hardware: 
          * Computers: Apple Macbook 15" retina, iMac 21"
+         * video card: 
          * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse 
          * hard disks: Lacie 3Tb, Toshiba 1Tb
-         * disk drive reader: Samsung DVD Writer
+         * disk drive reader/writer: Samsung DVD Writer
          * headphones: AKG Q701
     * software: 
          * 3D: Blender, Blam (Blender plugin), [Onshape](http://onshape.com/)
@@ -25,17 +26,3 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 * Configuration
 - Dependencies
     * the workflow force lot of inheritances. Most of the branches ends in few questions.
-* Database configuration
-* How to run tests
-* Deployment instructions 
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
