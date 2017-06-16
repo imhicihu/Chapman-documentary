@@ -18,11 +18,13 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * disk drive reader/writer: Samsung DVD Writer
          * headphones: AKG Q701
     * software: 
-         * 3D: Blender, Blam (Blender plugin), [Onshape](http://onshape.com/)
+         * 3D: Blender, Blam (Blender plugin), Real Camera (Blender plugin), [Onshape](http://onshape.com/)
          * GIS: QGis, Gdal, Garmin MapSource, Garmin Basecamp
          * Graphics edition: Gimp
          * Video restoration: Video Artifact, Film9
          * Sound restoration: Audacity
+         * Database management: LibreOffice, [Neo4J](https://neo4j.com/)
+         * Workflow organization & gathering of digital data assets: [Evernote](https://evernote.com/)
 * Configuration
 - Dependencies
     * the workflow force lot of inheritances. Most of the branches ends in few questions.
