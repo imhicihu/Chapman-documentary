@@ -24,8 +24,8 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * Video restoration: Video Artifact, [Film9](http://contact41766.wixsite.com/film9)
          * Sound restoration: [Audacity](http://www.audacityteam.org/)
          * Terrain visualization: [3Dem](http://www.hangsim.com/3dem/)
-         * Database management: LibreOffice, [Neo4J](https://neo4j.com/)
-         * Workflow organization & gathering of digital data assets: [Evernote](https://evernote.com/)
+         * Database management: [LibreOffice](https://www.libreoffice.org/), [Neo4J](https://neo4j.com/)
+         * Workflow organization & gathering of digital data & media assets: [Evernote](https://evernote.com/); [GetPocket](https://getpocket.com/)
 * Configuration
 - Dependencies
     * The nature of the work forced lot of dependencies and constrains. Most of the issues -along the process- matured and brought new approaches and encouraged creativity in the tools used.
