@@ -22,7 +22,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * GIS: QGis, Gdal, Garmin MapSource, Garmin Basecamp
          * Graphics edition: Gimp
          * Video restoration: Video Artifact, [Film9](http://contact41766.wixsite.com/film9)
-         * Sound restoration: [Audacity](http://www.audacityteam.org/)
+         * Audio restoration: [Audacity](http://www.audacityteam.org/); [DeNoise](http://www.clickrepair.net/noise/); [DeClicker](http://www.clickrepair.net/digital_audio/restore.html); [Equalizer](http://www.clickrepair.net/digital_audio/equalization.html)
          * Terrain visualization: [3Dem](http://www.hangsim.com/3dem/)
          * Database management: [LibreOffice](https://www.libreoffice.org/), [Neo4J](https://neo4j.com/)
          * Workflow organization & gathering of digital data & media assets: [Evernote](https://evernote.com/); [GetPocket](https://getpocket.com/)
