@@ -16,7 +16,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse 
          * hard disks: Lacie 3Tb, Toshiba 1Tb
          * disk drive reader/writer: Samsung DVD Writer
-         * headphones: AKG Q701
+         * headphones: [AKG Q701](http://www.trustedreviews.com/akg-q701-review-sound-quality-page-2)
     * software: 
          * 3D: Blender, Blam (Blender plugin), Real Camera (Blender plugin), [Onshape](http://onshape.com/)
          * GIS: QGis, Gdal, Garmin MapSource, Garmin Basecamp
