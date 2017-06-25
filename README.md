@@ -13,7 +13,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
     - hardware: 
          * Computers: Apple Macbook 15" retina, iMac 21"
          * video card: Intel HD Graphics 4000
-         * pointing devices: 3D Conexxion SpacePilot Pro, Wacom Bamboo, Apple Magic mouse 
+         * pointing devices: [3D Conexxion SpacePilot Pro](http://www.3dconnexion.com/?detectqt=false&id=30&_s=hc8ho5mtamobs9k82ktgqj7641), Wacom Bamboo, Apple Magic mouse 
          * hard disks: Lacie 3Tb, Toshiba 1Tb
          * disk drive reader/writer: Samsung DVD Writer
          * headphones: [AKG Q701](http://www.trustedreviews.com/akg-q701-review-sound-quality-page-2)
