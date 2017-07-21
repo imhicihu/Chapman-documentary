@@ -20,7 +20,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
     * software: 
          * 3D: Blender, [Blam](https://github.com/stuffmatic/blam), [Real Camera](http://www.3d-wolf.com/camera.html), [Onshape](http://onshape.com/)
          * GIS: [QGis](http://qgis.org/en/site/forusers/download.html#), [Gdal](http://download.osgeo.org/gdal), Garmin MapSource, Garmin Basecamp
-         * Graphics edition: Gimp
+         * Graphics edition: [Gimp](https://www.gimp.org/)
          * Video restoration: Video Artifact, [Film9](http://contact41766.wixsite.com/film9)
          * Audio restoration: [Audacity](http://www.audacityteam.org/); [DeNoise](http://www.clickrepair.net/noise/); [DeClicker](http://www.clickrepair.net/digital_audio/restore.html); [Equalizer](http://www.clickrepair.net/digital_audio/equalization.html)
          * Terrain visualization: [3Dem](http://www.hangsim.com/3dem/)
