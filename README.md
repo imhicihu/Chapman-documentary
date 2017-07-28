@@ -18,7 +18,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * disk drive reader/writer: Samsung DVD Writer
          * headphones: [AKG Q701](http://www.trustedreviews.com/akg-q701-review-sound-quality-page-2)
     * software: 
-         * 3D: Blender, [Blam](https://github.com/stuffmatic/blam), [Real Camera](http://www.3d-wolf.com/camera.html), [Onshape](http://onshape.com/)
+         * 3D: [Blender](http://blender.org/), [Blam](https://github.com/stuffmatic/blam), [Real Camera](http://www.3d-wolf.com/camera.html), [Onshape](http://onshape.com/)
          * GIS: [QGis](http://qgis.org/en/site/forusers/download.html#), [Gdal](http://download.osgeo.org/gdal), Garmin MapSource, Garmin Basecamp
          * Graphics edition: [Gimp](https://www.gimp.org/)
          * Video restoration: Video Artifact, [Film9](http://contact41766.wixsite.com/film9)
