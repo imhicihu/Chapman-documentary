@@ -1,4 +1,4 @@
-# README # [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
+# Rationale # [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
 This README describe the workflow in the tridimensionalization of a patagonian cemetery. Involves photogrammetry, historical sound & video restoration from Anne Chapman-Ana Montes documentary, circa 1977.
 
@@ -14,8 +14,8 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * Computers: Apple Macbook 15" retina, iMac 21"
          * video card: Intel HD Graphics 4000
          * pointing devices: [3D Conexxion SpacePilot Pro](http://www.3dconnexion.com/?detectqt=false&id=30&_s=hc8ho5mtamobs9k82ktgqj7641), Wacom Bamboo, Apple Magic mouse 
-         * hard disks: Lacie 3Tb, Toshiba 1Tb
-         * disk drive reader/writer: Samsung DVD Writer
+         * hard disks: Lacie 3Tb, Toshiba 1Tb, Lacie SSD external hard disk
+         * disk drive reader/writer: Samsung DVD Writer (external)
          * headphones: [AKG Q701](http://www.trustedreviews.com/akg-q701-review-sound-quality-page-2)
     * software: 
          * 3D: [Blender](http://blender.org/), [Blam](https://github.com/stuffmatic/blam), [Real Camera](http://www.3d-wolf.com/camera.html), [Onshape](http://onshape.com/)
