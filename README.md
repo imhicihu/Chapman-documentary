@@ -1,4 +1,4 @@
-# Rationale # [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
+# Rationale [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
 
 This README describe the workflow in the tridimensionalization of a patagonian cemetery. Involves photogrammetry, historical sound & video restoration from Anne Chapman-Ana Montes documentary, circa 1977.
 
