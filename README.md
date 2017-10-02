@@ -15,7 +15,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * video card: Intel HD Graphics 4000
          * pointing devices: [3D Conexxion SpacePilot Pro](http://www.3dconnexion.com/?detectqt=false&id=30&_s=hc8ho5mtamobs9k82ktgqj7641), Wacom Bamboo, Apple Magic mouse 
          * hard disks: Lacie 3Tb, Toshiba 1Tb, Lacie SSD external hard disk
-         * disk drive reader/writer: Samsung DVD Writer (external)
+         * disk drive reader/writer: Samsung DVD Writer (external), Samsung Blu Ray Writer (external)
          * headphones: [AKG Q701](http://www.trustedreviews.com/akg-q701-review-sound-quality-page-2)
     * software: 
          * 3D: [Blender](http://blender.org/), [Blam](https://github.com/stuffmatic/blam), [Real Camera](http://www.3d-wolf.com/camera.html), [Onshape](http://onshape.com/)
@@ -27,5 +27,6 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * Database management: [LibreOffice](https://www.libreoffice.org/), [Neo4J](https://neo4j.com/)
          * Workflow organization & gathering of digital data & media assets: [Evernote](https://evernote.com/); [GetPocket](https://getpocket.com/)
 * Configuration
+     * Involves mostly digital assets, in a nutshell, documentary visual data meets 3D tools.
 - Dependencies
     * The nature of the work forced lot of dependencies and constrains. Most of the issues -along the process- matured and brought new approaches and encouraged creativity in the tools used.
