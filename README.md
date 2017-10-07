@@ -12,7 +12,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
 - Summary of set up: 
     - hardware: 
          * Computers: Apple Macbook 15" retina, iMac 21"
-         * video card: Intel HD Graphics 4000
+         * video card: Intel HD Graphics 4000 (Apple Macbook 15" retina); AMD Radeon HD 6750M 512 MB (iMac 21")
          * pointing devices: [3D Conexxion SpacePilot Pro](http://www.3dconnexion.com/?detectqt=false&id=30&_s=hc8ho5mtamobs9k82ktgqj7641), Wacom Bamboo, Apple Magic mouse 
          * hard disks: Lacie 3Tb, Toshiba 1Tb, Lacie SSD external hard disk
          * disk drive reader/writer: Samsung DVD Writer (external), Samsung Blu Ray Writer (external)
