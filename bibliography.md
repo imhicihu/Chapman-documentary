@@ -23,6 +23,7 @@ Volume 2013 (2013), Article ID 276354, 14 pages. Accesed on 21/6/2017 on [https:
 * Mullen, Tony: "*Mastering Blender*", Wiley Publishing, 475pp. ISBN: 9780470407417. (read ---) *done*!)
 * Bradley Cantrell & Natalie Yates. *Modeling the environment: techniques and tools for the 3D illustration of dynamic landscapes*. ISBN: 978-0470902943 (read ---) *done*!)
 * Simonds, Ben: *Blender Master Class: A Hands-On Guide to Modeling, Sculpting, Materials, and Rendering*. 2013 | 288 Pages | ISBN: 1593274777. (read ---) *done*!)
+* Marcus A Magnor (Editor), Christian Theobalt (Editor), Olga Sorkine-Hornung (Editor), Oliver Grau (Editor): *Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality*, CRC Press, (2015), 454 pp.
 ####Photogrammetry
 * Maurer, M.; Rumpler, M.; Wendel, A.; Hoppe, C.; Irschara, A.; Bischof, H.: *Geo-referenced 3d reconstruction: Fusing public geographic data and aerial imagery*. Institute for computer graphics and vision, Graz University of Technology, Austria. (read ---) *done*!)
 * Li, X.Q.; Chen, Z.A.; Zhang, L.T.; Jia, D.: *Construction and accuracy test of a 3D model of non-metric camera images using Agisoft Photoscan*. Procedia Environmental Sciences 36 (2016) 184-190. (read ---) *done*!)
