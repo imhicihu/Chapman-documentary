@@ -26,7 +26,7 @@ This README describe the workflow in the tridimensionalization of a patagonian c
          * Terrain visualization: [3Dem](http://www.hangsim.com/3dem/)
          * Database management: [LibreOffice](https://www.libreoffice.org/), [Neo4J](https://neo4j.com/)
          * Workflow organization & gathering of digital data & media assets: [Zotero](https://www.zotero.org/), [Evernote](https://evernote.com/), [GetPocket](https://getpocket.com/), [Google Drive](https://drive.google.com/).
-         * Documentation management: Pandoc](http://pandoc.org/)
+         * Documentation management: [Pandoc](http://pandoc.org/)
      * bibliography:
          * Check [bibliography.md](https://bitbucket.org/imhicihu/chapman-documentary/src/b0b19e58f4012af20bf2952af323bf28f67ab6a8/bibliography.md?at=master&fileviewer=file-view-default)
 * Configuration
