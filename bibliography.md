@@ -8,7 +8,7 @@
 * Barry Andersson, Janie L. Geyen: "*The DSLR Filmmaker's Handbook: Real-World Production Techniques*". Sybex, 2 edition, 2015, ISBN 978-0470876602 (read ---) *done*!)
 ####Audio-Visual restoration
 * Ctein: *Digital restoration from start to finish. How to repair old and damaged photographs*. Elsevier, 2007. ISBN: 978-0-240-80814-7 (read ---) *done*!)
-* Canazza, S. _Noise and Representation Systems: A Comparison among Audio Restoration Algorithms_. Prima edizione, 124 pps. Accesed on 5/5/2017 on [http://www.lulu.com/shop/sergio-canazza/noise-and-representation-systems-a-comparison-among-audio-restoration-algorithms/ebook/product-17454260.html](http://www.lulu.com/shop/sergio-canazza/noise-and-representation-systems-a-comparison-among-audio-restoration-algorithms/ebook/product-17454260.html)
+* Canazza, S. _Noise and Representation Systems: A Comparison among Audio Restoration Algorithms_. Prima edizione, 124 pps. Accessed on 5/5/2017 on [http://www.lulu.com/shop/sergio-canazza/noise-and-representation-systems-a-comparison-among-audio-restoration-algorithms/ebook/product-17454260.html](http://www.lulu.com/shop/sergio-canazza/noise-and-representation-systems-a-comparison-among-audio-restoration-algorithms/ebook/product-17454260.html)
 * Bogdan Smolka, M. Emre Celebi, Michela Lecca: _Color Image and Video Enhancement_. Springer, 2015, ISBN: 3319093622.
 * Conolly, James; Lake, Mark: "*Geographical Information Systems in Archaeology*", Cambridge University Press, 2004, ISBN: 9780511807459
 * [Library of Congress: Audio preservation published articles](https://www.loc.gov/programs/national-recording-preservation-board/resources/audio-preservation-bibliography/)
