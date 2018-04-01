@@ -7,3 +7,4 @@
 * https://smathermather.com/2015/05/29/openaerialmap-openimagerynetwork-mapknitter-openterrain-and-opendronemap/
 * https://github.com/JacquesLucke/Blender-Camera-Addon
 * https://www.latlong.net/
+* http://www.isprs.org/proceedings/
