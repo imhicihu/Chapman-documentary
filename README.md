@@ -31,7 +31,7 @@ This README describe the workflow in the path to generate tridimensionalization 
          * Workflow organization & gathering of digital data & media assets: [Zotero](https://www.zotero.org/), [Evernote](https://evernote.com/), [GetPocket](https://getpocket.com/), [Google Drive](https://drive.google.com/).
          * Documentation management: [Pandoc](http://pandoc.org/)
     - bibliography:
-         * Check [bibliography.md](https://bitbucket.org/imhicihu/chapman-documentary/src/b0b19e58f4012af20bf2952af323bf28f67ab6a8/bibliography.md?at=master&fileviewer=file-view-default)
+         * Check [bibliography.md](https://bitbucket.org/imhicihu/chapman-documentary/src/0ce55e69f3e6f1d689a1f2ab453ea76d4d220dd0/bibliography.md?at=master&fileviewer=file-view-default)
 
 * Configuration
     - Involves mostly digital assets, in a nutshell, documentary visual data meets 3D tools.
