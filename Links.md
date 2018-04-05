@@ -8,3 +8,4 @@
 * https://github.com/JacquesLucke/Blender-Camera-Addon
 * https://www.latlong.net/
 * http://www.isprs.org/proceedings/
+* https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasárselo a Emilio
