@@ -40,7 +40,8 @@ This README describe the workflow in the path to generate tridimensionalization 
 
 
 * Dependencies
-    - The nature of the work forced lot of dependencies and constrains. Most of the issues -along the process- matured and brought new approaches and encouraged creativity in the tools used.
+    - The nature of the work forced a lot of dependencies (mostly of the software side) and constrains. Some of the essential data was missing form the beginning.
+    - Most of the issues -along the process- matured and brought new approaches and encouraged creativity in the tools used.
 
 ### Who do I talk to? ###
 * Repo owner or admin
