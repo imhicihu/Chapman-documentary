@@ -8,4 +8,5 @@
 * https://github.com/JacquesLucke/Blender-Camera-Addon
 * https://www.latlong.net/
 * http://www.isprs.org/proceedings/
-* https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasÃ¡rselo a Emilio
+* https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasárselo a Emilio
+* [iDig - Recording Archaeology](https://itunes.apple.com/us/app/idig-recording-archaeology/id953353960?mt=8)
