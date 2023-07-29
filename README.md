@@ -1,4 +1,4 @@
-# Rationale [![](https://img.shields.io/bitbucket/issues-raw/atlassian/python-bitbucket.svg?style=flat-square)]()
+# Rationale
 
 This README describe the workflow in the path to generate tridimensionalization information of a patagonian cemetery. Involves photogrammetry, sound & [video restoration](https://vimeo.com/album/4412719) from Anne Chapman-Ana Montes documentary, _circa_ 1977.
 ![vimeo.png](https://bitbucket.org/repo/aBjx4q/images/595316593-vimeo.png)
