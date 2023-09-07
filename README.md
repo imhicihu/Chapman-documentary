@@ -1,3 +1,6 @@
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 # Rationale
 
 This README describe the workflow in the path to generate tridimensionalization information of a patagonian cemetery. Involves photogrammetry, sound & [video restoration](https://vimeo.com/album/4412719) from Anne Chapman-Ana Montes documentary, _circa_ 1977.
