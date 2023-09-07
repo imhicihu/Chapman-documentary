@@ -11,6 +11,8 @@ This README describe the workflow in the path to generate tridimensionalization 
 
 * Quick summary
     - Photogrammetry and video restoration applied to a documentary.
+  ![gif_animated.gif](images/ezgif-2-0fae26ef22d6.gif)
+  ![photogrammetry.jpg](images/2918506912-IMG_1648.png)
 
 ### How do I get set up? ###
 
