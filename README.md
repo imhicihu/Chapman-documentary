@@ -73,7 +73,7 @@ This README describe the workflow in the path to generate tridimensionalization 
 ### Who do I talk to? ###
 * Repo owner or admin
     - Contact: `imhicihu` at `gmail` dot `com`
-~~* Other community or team contact~~
+    - ~~Other community or team contact~~
     - ~~Contact our [board](https://bitbucket.org/imhicihu/chapman-documentary/addon/trello/trello-board)~~
 
 ### Code of Conduct
