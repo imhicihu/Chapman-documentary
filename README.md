@@ -11,6 +11,7 @@ This README describe the workflow in the path to generate tridimensionalization 
 
 * Quick summary
     - Photogrammetry and video restoration applied to a documentary.
+  <BR></BR>
   ![gif_animated.gif](images/ezgif-2-0fae26ef22d6.gif)
   ![photogrammetry.jpg](images/2918506912-IMG_1648.png)
 
@@ -74,3 +75,11 @@ This README describe the workflow in the path to generate tridimensionalization 
     - Contact: `imhicihu` at `gmail` dot `com`
 ~~* Other community or team contact~~
     - ~~Contact our [board](https://bitbucket.org/imhicihu/chapman-documentary/addon/trello/trello-board)~~
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](code_of_conduct.md)
+
+### Legal
+
+* All trademarks are the property of their respective owners.
