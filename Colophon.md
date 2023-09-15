@@ -14,8 +14,8 @@
      - [Meshlab](https://github.com/cnr-isti-vclab/meshlab/releases/): mesh edition, correction, conversion & interchange file formats
      - [Tracker](https://physlets.org/tracker/): video analysis and modeling tool
      - [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
-     - ~~Bibliographic searcher:~~
-        - ~~[ScienceFair](http://sciencefair-app.com): Discover, collect, organise, read and analyse scientific papers.~~
+     - Bibliographic searcher:
+       - [ScienceFair](https://github.com/sciencefair-land/sciencefair): Discover, collect, organise, read and analyse scientific papers.
 
 * Photogrammetry
     - [OpenSfM](https://www.opensfm.org/): reconstructing camera poses and 3D scenes from multiple images
