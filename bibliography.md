@@ -39,4 +39,4 @@
 * Tufte, Edward Rolf: "*Envisioning information*", Graphics Press, 1990, ISBN: 9780961392116 (read ---> *done*!)
 
 ### Miscellaneous
-* _Vide_ [Bibliography](https://bitbucket.org/imhicihu/chapman-documentary/issues/88/bibliography): (original primal document
+* _Vide_ previous [Bibliography](https://bitbucket.org/imhicihu/chapman-documentary/issues/88/bibliography): (original primal document)
