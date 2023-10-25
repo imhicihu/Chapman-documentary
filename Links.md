@@ -10,3 +10,5 @@
 * http://www.isprs.org/proceedings/
 * https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasárselo a Emilio
 * [iDig - Recording Archaeology](https://itunes.apple.com/us/app/idig-recording-archaeology/id953353960?mt=8)
+* [Filmmaking Database: Cinema Camera Lenses Masterclass](https://www.udemy.com/course/filmmaking-cinematography-video-production-camera-lenses/)
+* http://emaraic.com/blog/distance-measurement
