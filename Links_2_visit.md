@@ -1,7 +1,7 @@
 ### Links to visit:
 
 ### Photogrammetry:
-* [MODERN PHOTOGRAMMETRY IN THE FIELD OF ARCHAEOLOGY AND CULTURAL HERITAGE/ LA FOTOGRAMETRÍA MODERNA PARA LA DOCUMENTACIÓN ARQUEOLÓGICA Y DEL PATRIMONIO CULTURAL](https://www.eventbrite.it/e/biglietti-modern-photogrammetry-in-the-field-of-archaeology-and-cultural-heritage-la-fotogrametria-moderna-49981549159)
+* [Modern photogrammetry in the field of archaeology and cultural heritage](https://www.eventbrite.it/e/biglietti-modern-photogrammetry-in-the-field-of-archaeology-and-cultural-heritage-la-fotogrametria-moderna-49981549159)
 
 ### Terrain stuff
 * http://www.karto.ethz.ch/services/software.html (essentially links to terrain treatment)
@@ -16,20 +16,20 @@
 * http://www.isprs.org/proceedings/
 * https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasárselo a Emilio
 
-### Ipad
+#### Ipad
 * [iDig - Recording Archaeology](https://itunes.apple.com/us/app/idig-recording-archaeology/id953353960?mt=8)
 
-### Optics (software correction): payware
+#### Optics (software correction): => payware
 * [Fisheye-Hemi Plug-In](https://imadio.com/products/prodpage_hemi.aspx)
 
-### Field of view (calculus)
+#### Field of view (calculus)
 * [How to figure out a drone's angular field of view](https://www.wired.com/story/how-to-figure-out-drone-angular-field-of-view/)
 
-### 3D
+#### 3D
 * https://github.com/stream-labs/facemask-plugin  (Check the Useful links section)
 
-## AI applied to graphics assets
+#### AI applied to graphics assets
 * [Artificial intelligence is helping old video games look new](https://www.theverge.com/2019/4/18/18311287/ai-upscaling-algorithms-video-games-mods-modding-esrgan-gigapixel)
 
-### Miscellaneous
+#### Miscellaneous
 * [Street View Download 360](https://svd360.istreetview.com/): downloading 360° panoramas from Google Street View.
