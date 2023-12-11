@@ -7,7 +7,8 @@
 * https://smathermather.com/2015/05/29/openaerialmap-openimagerynetwork-mapknitter-openterrain-and-opendronemap/
 * https://github.com/JacquesLucke/Blender-Camera-Addon
 * https://www.latlong.net/
-* http://www.isprs.org/proceedings/
+* ~~http://www.isprs.org/proceedings/~~ (deprecated)
+* https://www.isprs.org/publications/archives.aspx
 * https://www.planet.com/markets/education-and-research/   (high resolution maps to academia/academics)  ---> pasárselo a Emilio
 * [iDig - Recording Archaeology](https://itunes.apple.com/us/app/idig-recording-archaeology/id953353960?mt=8)
 * [Filmmaking Database: Cinema Camera Lenses Masterclass](https://www.udemy.com/course/filmmaking-cinematography-video-production-camera-lenses/)
