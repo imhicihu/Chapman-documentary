@@ -73,11 +73,9 @@ This README describe the workflow in the path to generate tridimensionalization 
     - The nature of the work forced a lot of dependencies (mostly of the software side) and constrains. Some of the essential data was missing form the beginning.
     - Most of the issues -along the process- matured and brought new approaches and encouraged creativity in the tools used.
 
-### Who do I talk to? ###
-* Repo owner or admin
-    - Contact: `imhicihu` at `gmail` dot `com`
-    - ~~Other community or team contact~~
-    - ~~Contact our [board](https://bitbucket.org/imhicihu/chapman-documentary/addon/trello/trello-board)~~
+### Disclaimer
+
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes.
 
 ### Code of Conduct
 
